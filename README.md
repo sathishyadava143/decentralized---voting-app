@@ -47,7 +47,7 @@ A brief explanation on the basic workflow of the application.
 1. Clone this repository
 
    ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   git clone https://github.com/sathishyadava143/decentralized---voting-app
    cd dVoting
    ```
 
